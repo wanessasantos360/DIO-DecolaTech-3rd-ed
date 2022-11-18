@@ -1,4 +1,4 @@
-# DIO-DecolaTech-3rd-ed
+# DIO
 Desafio de Projeto sobre Git/Github
 
 <p><hr></p>
